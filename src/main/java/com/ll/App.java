@@ -37,7 +37,7 @@ public class App {
                     wiseSayingController.actionList();
                     return;
                 case "삭제" :
-//                    wiseSayingController.actionDelete(cmd);
+                    wiseSayingController.actionDelete(cmd);
                     return;
             }
         }
